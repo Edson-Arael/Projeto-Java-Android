@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrabCRUD</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="strGravidade">
+        <item>---------</item>
+        <item>Leve</item>
+        <item>Média</item>
+        <item>Grave</item>
+    </string-array>
+</resources>
